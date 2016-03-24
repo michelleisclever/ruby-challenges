@@ -1,0 +1,48 @@
+content types:
+
+Blog Posts
+Tech Terms
+Classes
+Lessons
+Steps
+
+Attributes: 
+
+Blog posts have authors
+
+tech terms have cocktail party facts & images
+
+Classes have names & start dates, plus they are all a specific length
+
+Lessons have numbers
+
+Steps have videos or interactive elements & they can be resources or challenges.
+
+
+For the parent class, they have in common:
+Titles
+
+Written text or content
+
+published date
+
+maybe categories
+
+A SUPER CLASS can be created for CONTENT
+
+Content would contain attributes:
+Titles
+Content
+Published at date
+Categories
+
+All other classes would be a child class of the parent class.
+
+NO CLASS SHOULD HAVE MORE THAN 12 METHODS.
+
+
+
+
+
+
+
