@@ -1,0 +1,1 @@
+put "Let's go outside!"
